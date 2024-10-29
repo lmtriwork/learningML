@@ -1,0 +1,24 @@
+# These are some examples. You may update it based on your requirements
+
+#Notebooks' checkpoints
+.ipynb_checkpoints
+
+#bytecodes
+__pycache__
+
+#videos
+*.m4v
+
+#MacOS 
+__MACOSX
+.DS_Store
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Environments
+.env
+
+# Visual Studio Code 
+.vscode
