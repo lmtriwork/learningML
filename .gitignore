@@ -2,6 +2,7 @@
 
 #Notebooks' checkpoints
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 #bytecodes
 __pycache__
