@@ -24,4 +24,4 @@ __MACOSX
 # Visual Studio Code 
 .vscode
 *.data
-data/
+data/my_mnist.data
