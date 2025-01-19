@@ -25,3 +25,5 @@ __MACOSX
 .vscode
 *.data
 data/my_mnist.data
+*.mmap
+.mmap
